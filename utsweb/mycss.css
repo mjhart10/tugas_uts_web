@@ -1,0 +1,38 @@
+img {
+    width: 145px;
+}
+
+.text1 {
+     font-family: "Lucida Console", Courier, monospace;
+}
+
+.img2 img {
+    width: 335px;
+    height: 270px;
+}
+
+.img3 img {
+    width: 200px;
+    height: 210px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
+}
+
+.text2 {
+    margin-left: 90px;
+    padding: 85px;
+    border: 
+}
+
+.text4 {
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+   
+}
+
+.text5 {
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+}
+
